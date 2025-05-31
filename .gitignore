@@ -58,3 +58,20 @@ Thumbs.db
 # Project-specific ignored files
 data/
 models/
+# Downloaded data
+data/yfinance_data/
+
+#Byte-code files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+#IDE files
+.vscode/
+.idea/
+
+# Operation System files
+.DS_Store
+Thumbs.db
