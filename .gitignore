@@ -58,3 +58,42 @@ Thumbs.db
 # Project-specific ignored files
 data/
 models/
+# Downloaded data
+data/yfinance_data/
+
+#Byte-code files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+#IDE files
+.vscode/
+.idea/
+
+# Operation System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+.ipynb_metadata/
+
+# Installer files
+*.egg-info/
+dist/
+build/
+
+# TA-Lib specific (if you had the source in your repo)
+ta-lib/
